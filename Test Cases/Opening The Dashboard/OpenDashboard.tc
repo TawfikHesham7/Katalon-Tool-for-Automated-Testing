@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate that the user is able to go to the dashboard</description>
+   <name>OpenDashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aa1db82b-ab3f-42b9-85cf-28ecc7c41c33</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c84241a6-2874-4b91-8dcc-7ec8362a4653</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c84241a6-2874-4b91-8dcc-7ec8362a4653</id>
+      <masked>false</masked>
+      <name>WebSiteURL</name>
+   </variable>
+</TestCaseEntity>

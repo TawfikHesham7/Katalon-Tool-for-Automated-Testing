@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS1,Chrome 121.0.0.0,This test suite illustrates opening the dashboard,,10-07-2024 12:42:06,10-07-2024 12:42:08,2.559s,PASSED
+,,,,,,,
+Test Cases/Opening The Dashboard/OpenDashboard,Chrome 121.0.0.0,Validate that the user is able to go to the dashboard,,10-07-2024 12:42:06,10-07-2024 12:42:08,2.408s,PASSED
+openBrowser(WebSiteURL),Chrome 121.0.0.0,,,10-07-2024 12:42:06,10-07-2024 12:42:08,2.086s,PASSED
